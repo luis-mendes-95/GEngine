@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\DevLife\Jogos\Labs\Lab28\TiledScroll\x64\Debug\TiledScroll.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\DevLife\Jogos\Labs\Lab28\TiledScroll\TiledScroll\Shaders\Pixel.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\DevLife\Jogos\Labs\Lab28\TiledScroll\TiledScroll\Shaders\Vertex.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
