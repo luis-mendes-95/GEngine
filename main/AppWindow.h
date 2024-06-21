@@ -1,5 +1,6 @@
 #pragma once /*HEADER GUARD*/
 #include "Window.h" /*INCLUDE WINDOW HEADER FILE*/
+#include "GraphicsEngine.h" 
 
 
 
